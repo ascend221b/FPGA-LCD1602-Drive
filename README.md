@@ -1,1 +1,1 @@
-# FPGA-Verilog-LCD1602
+# FPGA-LCD1602-Drive
