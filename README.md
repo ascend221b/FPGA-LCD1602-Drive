@@ -15,6 +15,7 @@ E    | 使能
 D0~D7| 数据
 A    | 背光灯电源正极
 K    | 背光灯电源负极
+
 ![image](https://github.com/ascend221b/FPGA-LCD1602-Drive/assets/92852338/48ad9ae0-46b3-46a0-82f0-fd86018f6b3f)
 ## 时序
 ![image](https://github.com/ascend221b/FPGA-LCD1602-Drive/assets/92852338/21aeaabb-73c7-4419-ab85-ff1e818c963f)
